@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtpqardl Panel Quantile Autoregressive Distributed Lag (PQARDL) estimation Use xtpqardl With STATA 19
