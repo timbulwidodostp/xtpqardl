@@ -1,4 +1,9 @@
-D 'DEA': Data envelopment analysis
+D 'xtpqardl': Panel Quantile Autoregressive Distributed Lag (PQARDL) estimation Use xtpqardl With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F _xtpqardl_ecm.ado
+F _xtpqardl_estimate.ado
+F _xtpqardl_waldtest.ado
+F xtpqardl.ado
+F xtpqardl.sthlp
+F xtpqardl_graph.ado
+F xtpqardl_makedata.ado
